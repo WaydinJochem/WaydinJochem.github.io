@@ -1,0 +1,33 @@
+{
+"testimonials":[{
+    "id": 1,
+    "img": "https://i.postimg.cc/SN3Kmy46/C12-Ayesha-Galant-Class1-1.jpg",
+    "name": "Ayesha Galent",
+    "statment":
+},
+{
+    "id": 2,
+    "img": "https://i.postimg.cc/FRrrTzb4/C12-Abdoelmaaliek-Samaai-1.jpg",
+    "name": "Abdooel",
+    "statment":
+},
+{
+    "id": 3,
+    "img": "https://i.postimg.cc/0QY3TC3s/IMG-2409.jpg",
+    "name":"Zulaigah",
+    "statment":
+},
+{
+    "id": 4,
+    "img": "https://i.postimg.cc/NG1Bt6TL/image.png",
+    "name":"Sidwell",
+    "statment":
+},
+{
+    "id": 5,
+    "img": "https://i.postimg.cc/KYRmhCry/image-1.png",
+    "name": "Mezaan",
+    "statment":
+}
+]
+}
