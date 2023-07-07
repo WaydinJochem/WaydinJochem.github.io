@@ -105,7 +105,7 @@
       "date": "2015 to  2020",
       "info": "I attended high-school at Kensington High,  my list of subjects that I studied from grade 10 to grade 12 include: Mathematics, Physical Sciences and Life Science. I matriculated in 2021 with a Bachelors Degree.",
       "heading2": "Life Choices Academy, Web Development",
-      "date2": "March 2023 – TO DATE",
+      "date2": "March 2023 TO DATE",
       "info2": "I am currently enrolled on a Web Development course at Life Choices"    
     },
     {
@@ -113,7 +113,7 @@
         "heading1": "Portfolio Website ",
         "heading2": "Calculator ",
         "heading3": "Point Of Sale System",
-        "heading4": "Temperature Converter",
+        "heading4": "Temperature Converter"
     }
   ]
 }
