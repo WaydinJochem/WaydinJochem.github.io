@@ -44,7 +44,7 @@
         {
             "id": 2,
             "name": "Bootstrap End of Module Portfolio",
-            "img": "",
+            "img": "https://i.postimg.cc/26gntYL8/Screenshot-2023-07-07-104021.png",
             "descr": "Using Bootstrap, Css and HTML 5 to design a webpage, my first major project in my Web Development Course",
             "front": "https://i.postimg.cc/wMX3vh4J/icons8-2-64.png",
             "link": "https://waydin-end-of-module.netlify.app/",
@@ -53,7 +53,7 @@
         {
             "id": 3,
             "name": "Calculator App",
-            "img": "",
+            "img": "https://i.postimg.cc/y87pjhzp/Screenshot-2023-07-07-104125.png",
             "descr": "Using Bootstrap, HTML 5 and JavaScript to make a functional calculator, useful for adding up a shopping but not a Mathematics exam",
             "front": "https://i.postimg.cc/WzLhT98T/icons8-3-64.png",
             "link": "https://waydin-calculator.netlify.app/",
@@ -62,7 +62,7 @@
         {
             "id": 4,
             "name": "BMI Calulator",
-            "img": "",
+            "img": "https://i.postimg.cc/c43G2B2s/Screenshot-2023-07-07-104210.png",
             "descr": "Takes weight(kg) and Height(m) of participant and determines which category their body weight falls into, made with HTML 5, Bootstrap and JavaScript",
             "front": "https://i.postimg.cc/Gmq8GxLx/icons8-4-64.png",
             "link": "https://waydin-bmi-calculator.netlify.app/",
@@ -71,7 +71,7 @@
         {
             "id": 5,
             "name": "Temperature converter",
-            "img": "",
+            "img": "https://i.postimg.cc/pdL8XZwj/Screenshot-2023-07-07-104259.png",
             "descr": "Made with Bootstrap, HTML 5 and Javascript, converts Celcuis to Farenheit and vice verse, this works upon input.",
             "front": "https://i.postimg.cc/R0h3RJq5/icons8-5-64.png",
             "link": "https://waydin-temp-converter.netlify.app/",
@@ -80,7 +80,7 @@
         {
             "id": 6,
             "name": "JavaScript End Of Module",
-            "img": "",
+            "img": "https://i.postimg.cc/rp1bM8Ls/Screenshot-2023-07-07-104347.png",
             "descr": "Second Big Project taken on in my Web Design Course, made using Css, HTML 5 and javascript. A website made to sell products to a unique set of users.",
             "front": "https://i.postimg.cc/25t1XjBq/icons8-6-64.png",
             "link": "https://unique-cactus-0c8c13.netlify.app/",
