@@ -2,30 +2,35 @@
     "testimonials": [
         {
             "id": 1,
+            "class":11,
             "img": "https://i.postimg.cc/SN3Kmy46/C12-Ayesha-Galant-Class1-1.jpg",
             "name": "  Ayesha Galant",
             "statment": "Waydin is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so."
         },
         {
             "id": 2,
+            "class":21,
             "img": "https://i.postimg.cc/FRrrTzb4/C12-Abdoelmaaliek-Samaai-1.jpg",
             "name": " Abdoel Samaai",
             "statment": "WaydinJochem: Is a Man that faces challenges head on and is not afraid to speak and give his opinion.He doesn't rush into situations without thinking about every detail first. He is the type of person you can go to for help and he finds ways to do things differently.He has a great interlect which is one of his good qualities.He is a great person and one that people would be happy to work with."
         },
         {
             "id": 3,
+            "class":31,
             "img": "https://i.postimg.cc/0QY3TC3s/IMG-2409.jpg",
             "name": "   Zulaigah Benjamin",
             "statment": "Working with Waydin is a pleasure.He is good at seeing the big picture in both the areas of database design and data definition. His ability to asses a situation from all angles and see the myriad of potential ramifications of a particular course of action was very helpful. And always lends a helping hand where needed"
         },
         {
             "id": 4,
+            "class":41,
             "img": "https://i.postimg.cc/NG1Bt6TL/image.png",
             "name": " Sidwell Batyi",
             "statment": "Waydin is an energetic young lad, he is an extrovert that works great with teams because he adds his own energy to any situation which makes working with him a breeze"
         },
         {
             "id": 5,
+            "class":51,
             "img": "https://i.postimg.cc/KYRmhCry/image-1.png",
             "name": " Meezaan Davids ",
             "statment": "Waydin's eagerness to learn and willingness to ask questions have made him a valuable member of our team. He is new to coding but has been steadily improving his skills. His bright personality and positive attitude make working with him one on one a pleasure. Waydin's enthusiasm for learning and willingness to ask questions have been invaluable to our team. He is new to coding but has quickly become a valuable contributor to our projects. His bright personality and eagerness to learn make him a pleasure to work with. As Waydin's team leader, I have been impressed with his dedication to learning and his willingness to ask questions. He has a natural talent for coding and has been steadily improving his skills. His positive attitude and eagerness to learn make him a valuable asset to our team. needed"
@@ -34,7 +39,6 @@
     "projects": [
         {
             "id": 1,
-            "class":11,
             "name": "Mock Portfolio",
             "img": "https://i.postimg.cc/pTJjXjp4/Screenshot-2023-07-07-103601.png",
             "descr": "First mock portfolio made using a jumbotron design template and bootstrap",
@@ -44,7 +48,6 @@
         },
         {
             "id": 2,
-            "class":21,
             "name": "Bootstrap End of Module Portfolio",
             "img": "https://i.postimg.cc/26gntYL8/Screenshot-2023-07-07-104021.png",
             "descr": "Using Bootstrap, Css and HTML 5 to design a webpage, my first major project in my Web Development Course",
@@ -54,7 +57,6 @@
         },
         {
             "id": 3,
-            "class":31,
             "name": "Calculator App",
             "img": "https://i.postimg.cc/y87pjhzp/Screenshot-2023-07-07-104125.png",
             "descr": "Using Bootstrap, HTML 5 and JavaScript to make a functional calculator, useful for adding up a shopping but not a Mathematics exam",
@@ -64,7 +66,6 @@
         },
         {
             "id": 4,
-            "class":41,
             "name": "BMI Calulator",
             "img": "https://i.postimg.cc/c43G2B2s/Screenshot-2023-07-07-104210.png",
             "descr": "Takes weight(kg) and Height(m) of participant and determines which category their body weight falls into, made with HTML 5, Bootstrap and JavaScript",
@@ -74,7 +75,6 @@
         },
         {
             "id": 5,
-            "class":51,
             "name": "Temperature converter",
             "img": "https://i.postimg.cc/pdL8XZwj/Screenshot-2023-07-07-104259.png",
             "descr": "Made with Bootstrap, HTML 5 and Javascript, converts Celcuis to Farenheit and vice verse, this works upon input.",
@@ -84,7 +84,6 @@
         },
         {
             "id": 6,
-            "class":61,
             "name": "JavaScript End Of Module",
             "img": "https://i.postimg.cc/rp1bM8Ls/Screenshot-2023-07-07-104347.png",
             "descr": "Second Big Project taken on in my Web Design Course, made using Css, HTML 5 and javascript. A website made to sell products to a unique set of users.",
