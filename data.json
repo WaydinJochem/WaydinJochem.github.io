@@ -34,6 +34,7 @@
     "projects": [
         {
             "id": 1,
+            "class":1,
             "name": "Mock Portfolio",
             "img": "https://i.postimg.cc/pTJjXjp4/Screenshot-2023-07-07-103601.png",
             "descr": "First mock portfolio made using a jumbotron design template and bootstrap",
@@ -43,6 +44,7 @@
         },
         {
             "id": 2,
+            "class":2,
             "name": "Bootstrap End of Module Portfolio",
             "img": "https://i.postimg.cc/26gntYL8/Screenshot-2023-07-07-104021.png",
             "descr": "Using Bootstrap, Css and HTML 5 to design a webpage, my first major project in my Web Development Course",
@@ -52,6 +54,7 @@
         },
         {
             "id": 3,
+            "class":3,
             "name": "Calculator App",
             "img": "https://i.postimg.cc/y87pjhzp/Screenshot-2023-07-07-104125.png",
             "descr": "Using Bootstrap, HTML 5 and JavaScript to make a functional calculator, useful for adding up a shopping but not a Mathematics exam",
@@ -61,6 +64,7 @@
         },
         {
             "id": 4,
+            "class":4,
             "name": "BMI Calulator",
             "img": "https://i.postimg.cc/c43G2B2s/Screenshot-2023-07-07-104210.png",
             "descr": "Takes weight(kg) and Height(m) of participant and determines which category their body weight falls into, made with HTML 5, Bootstrap and JavaScript",
@@ -70,6 +74,7 @@
         },
         {
             "id": 5,
+            "class":5,
             "name": "Temperature converter",
             "img": "https://i.postimg.cc/pdL8XZwj/Screenshot-2023-07-07-104259.png",
             "descr": "Made with Bootstrap, HTML 5 and Javascript, converts Celcuis to Farenheit and vice verse, this works upon input.",
@@ -79,6 +84,7 @@
         },
         {
             "id": 6,
+            "class":6,
             "name": "JavaScript End Of Module",
             "img": "https://i.postimg.cc/rp1bM8Ls/Screenshot-2023-07-07-104347.png",
             "descr": "Second Big Project taken on in my Web Design Course, made using Css, HTML 5 and javascript. A website made to sell products to a unique set of users.",
