@@ -92,9 +92,17 @@
             "git": "https://github.com/WaydinJochem/JS-Final.git"
         }
     ],
-    "resume": [
+    "card1": [
         {
-            
+            "name": "Waydin Jochem",
+            "info": "I am an Aspiring Software Developer"
+        }
+    ],
+    "card2": [
+        {
+            "title": "EDUCATION",
+            "heading1": "Kensington High School",
+            "date": "2015 to  2020"
         }
     ]
 }
