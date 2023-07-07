@@ -91,5 +91,11 @@
       "link": "https://unique-cactus-0c8c13.netlify.app/",
       "git": "https://github.com/WaydinJochem/JS-Final.git"
     }
+  ],
+  "resume": [
+    {
+        "id":1,
+        "link": "https://docs.google.com/document/d/e/2PACX-1vRRasSNz6mCLZXXV2lotI2wIcF1TPPU37jNyVo0w6ZG6HErj-SMEWsd6IkwB4tJarrBmEfuhxXq_UHw/pub?embedded=true"
+    }
   ]
 }
